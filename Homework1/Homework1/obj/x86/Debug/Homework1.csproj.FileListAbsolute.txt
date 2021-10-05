@@ -1,0 +1,6 @@
+/home/kotusik/Projects/Homework1/Homework1/obj/x86/Debug/Homework1.csprojAssemblyReference.cache
+/home/kotusik/Projects/Homework1/Homework1/obj/x86/Debug/Homework1.csproj.CoreCompileInputs.cache
+/home/kotusik/Projects/Homework1/Homework1/bin/Debug/Homework1.exe
+/home/kotusik/Projects/Homework1/Homework1/bin/Debug/Homework1.pdb
+/home/kotusik/Projects/Homework1/Homework1/obj/x86/Debug/Homework1.exe
+/home/kotusik/Projects/Homework1/Homework1/obj/x86/Debug/Homework1.pdb
