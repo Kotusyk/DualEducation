@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{398770A9-63CA-452F-BE4F-49B0757DAE68}</ProjectGuid>
+    <ProjectGuid>{B54E0301-C936-47EF-9F93-7FC917A5B5DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Homework1</RootNamespace>
     <AssemblyName>Homework1</AssemblyName>
